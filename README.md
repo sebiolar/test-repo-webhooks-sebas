@@ -1,2 +1,2 @@
 # test-repo-webhooks-sebas
-test repo sebas V1
+test repo sebas V2
